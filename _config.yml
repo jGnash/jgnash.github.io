@@ -1,1 +1,8 @@
+title: jGnash
+description: jGnash Personal Finance
+google_analytics: UA-56248436-1
+show_downloads: false
 theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
