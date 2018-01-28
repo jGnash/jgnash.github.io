@@ -12,9 +12,9 @@ jGnash is a personal finance application that works on most any modern PC platfo
 * Intelligent handling of multiple currencies and exchange rates with automatic online exchange rate updates
 * Printable reports with PDF and spreadsheet export capability
 * XML and relational database file formats
-* Operates on any modern PC operating system
+* Operates on any modern operating system
 
-You can download jGnash from the [jGnash Download Page](https://sourceforge.net/projects/jgnash/files/Active%20Stable%202.x/).
+You can download jGnash from the [Download Page](https://sourceforge.net/projects/jgnash/files/Active%20Stable%202.x/).
 
 ### Support or Contact
 Having trouble with getting stated? Check out the official jGnash support group at [ the jGnash User Google group](https://groups.google.com/forum/#!forum/jgnash-user)
