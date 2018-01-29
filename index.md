@@ -22,3 +22,6 @@ The jGnash download includes a user manual to help get you started with the basi
 It also covers some of the more subtle features and shortcuts that are not immediately obvious.
 
 Having trouble with getting stated? Check out the official jGnash support group at [ the jGnash User Google group](https://groups.google.com/forum/#!forum/jgnash-user)
+
+### Donations
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYN4QECUL5C44)
