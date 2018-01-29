@@ -1,7 +1,9 @@
 ![jGnash Logo](http://jgnash.github.io/img/jgnash-logo.png)
 
 ### Welcome to jGnash
-jGnash is a personal finance application that works on most any modern PC platform. jGnash is a complete double entry system with support for multiple currencies. jGnash is used by beginners and professionals all over the world. A list of comprehensive features and capabilities is below.
+jGnash is a personal finance application that works on most any modern PC platform. jGnash is a complete double entry system with support for multiple currencies. jGnash is used by beginners and professionals all over the world. 
+
+A list of features and capabilities is below.
 
 * Operates on any operating system with Java 8 or newer installed
 * Double Entry Accounting with reconciliation tools
@@ -15,6 +17,7 @@ jGnash is a personal finance application that works on most any modern PC platfo
 * XML and relational database file formats
 * Supports concurrent multiple users over a network
 
+### Download jGnash
 You can download jGnash from the [Download Page](https://sourceforge.net/projects/jgnash/files/Active%20Stable%202.x/).
 
 ### Support or Contact
@@ -24,4 +27,6 @@ It also covers some of the more subtle features and shortcuts that are not immed
 Having trouble with getting stated? Check out the official jGnash support group at [ the jGnash User Google group](https://groups.google.com/forum/#!forum/jgnash-user)
 
 ### Donations
+Donations are always welcome and appreciated.  This helps to defer the cost of computer hardware and internet access.
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYN4QECUL5C44)
