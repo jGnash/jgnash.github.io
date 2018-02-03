@@ -30,3 +30,6 @@ Having trouble with getting stated? Check out the official jGnash support group 
 Donations are always welcome and appreciated.  This helps to defer the cost of computer hardware and internet access.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYN4QECUL5C44)
+
+### Development
+The source code and development of jGnash is hosted on [GitHub](https://github.com/ccavanaugh/jgnash)
